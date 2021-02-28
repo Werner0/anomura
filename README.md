@@ -1,2 +1,2 @@
 # anomura
-Unencapsulated source code 
+Anomuran terrestrialism project files

@@ -1,1 +1,1 @@
-
+This directory contains metrics of various NGS files used during the project. Each filename describes its own content. TenX read length distribution was calculated with <i>BBMap readlength</i>, library complexity with <i>Picard EstimateLibraryComplexity</i>, and summary statistics of aligned reads (including coverage information) with <i>samtools-stats<i>.
